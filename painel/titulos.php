@@ -8,7 +8,7 @@
         <div class="Tabela">
             <div class="TabelaLinha" style="background-color:#8a8a8a;">
                 <div class="TabelaLinhaColuna" style="width:60%">Título</div>
-                <div class="TabelaLinhaColuna" style="width:16%">Categoria</div>
+                <div class="TabelaLinhaColuna" style="width:14%">Categoria</div>
                 <div class="TabelaLinhaColuna" style="width:8%">Emprestado</div>
                 <div class="TabelaLinhaColuna" style="width:8%">Disponível</div>
                 <div class="TabelaLinhaColuna" style="width:5%">Editar</div>
@@ -16,7 +16,7 @@
             </div>
             <div class="TabelaLinha">
                 <div class="TabelaLinhaColuna" style="width:60%">Título</div>
-                <div class="TabelaLinhaColuna" style="width:16%">Categoria</div>
+                <div class="TabelaLinhaColuna" style="width:14%">Categoria</div>
                 <div class="TabelaLinhaColuna" style="width:8%">Emprestado</div>
                 <div class="TabelaLinhaColuna" style="width:8%">Disponível</div>
                 <div class="TabelaLinhaColuna" style="width:5%">Editar</div>
