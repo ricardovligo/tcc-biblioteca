@@ -6,12 +6,22 @@
         <div style="width:100%; height:100px;"><div class="BotaoAdicionar">Adicionar</div></div>
 
         <div class="Tabela">
-            <!-- <div>Título</div>
-            <div>Categoria</div>
-            <div>Emprestado</div>
-            <div>Disponível</div>
-            <div>Editar</div>
-            <div>Excluir</div> -->
+            <div class="TabelaLinha">
+                <div class="TabelaLinhaColuna">Título</div>
+                <div class="TabelaLinhaColuna">Categoria</div>
+                <div class="TabelaLinhaColuna">Emprestado</div>
+                <div class="TabelaLinhaColuna">Disponível</div>
+                <div class="TabelaLinhaColuna">Editar</div>
+                <div class="TabelaLinhaColuna">Excluir</div>
+            </div>
+            <div class="TabelaLinha">
+                <div class="TabelaLinhaColuna">Título</div>
+                <div class="TabelaLinhaColuna">Categoria</div>
+                <div class="TabelaLinhaColuna">Emprestado</div>
+                <div class="TabelaLinhaColuna">Disponível</div>
+                <div class="TabelaLinhaColuna">Editar</div>
+                <div class="TabelaLinhaColuna">Excluir</div>
+            </div>
         </div>
     </div>
 
