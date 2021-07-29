@@ -11,7 +11,7 @@
 <form action="titulos.php" method="post">
     <div class="Login">
         <div style="width:100%; text-align:center; margin-bottom:10px;"><div class="Logo"></div></div>
-        <font>Login</font><br> <input type="text" class="Input"> <br>
+        <font>Loginss</font><br> <input type="text" class="Input"> <br>
         <font>Senha</font><br> <input type="password" class="Input"> <br>
         <input type="submit" value="Acessar" style="margin-top:10px;">
     </div>
