@@ -14,6 +14,7 @@
                 <div class="TabelaLinhaColuna" style="width:5%">Editar</div>
                 <div class="TabelaLinhaColuna" style="width:5%">Excluir</div>
             </div>
+            <?php for ($i = 0; $i < 5; $i++) { ?>
             <div class="TabelaLinha">
                 <div class="TabelaLinhaColuna" style="width:60%">Título</div>
                 <div class="TabelaLinhaColuna" style="width:14%">Categoria</div>
@@ -22,6 +23,7 @@
                 <div class="TabelaLinhaColuna" style="width:5%">Editar</div>
                 <div class="TabelaLinhaColuna" style="width:5%">Excluir</div>
             </div>
+            <?php } ?>
         </div>
     </div>
 
