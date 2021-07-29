@@ -8,4 +8,4 @@
 #Corpo .Conteudo .BotaoAdicionar {width:120px; height:40px; line-height:40px; vertical-align: middle; text-align:center; position:absolute; right:0px; top:50px; background-color: #aa68b1; cursor:pointer;}
 #Corpo .Conteudo .Tabela {width:1280px; height:auto; max-height:800px; display:table; text-align:center; border:1px solid green;} 
 #Corpo .Conteudo .Tabela .TabelaLinha {display:table-row; text-align:center; border:1px solid green;} 
-#Corpo .Conteudo .Tabela .TabelaLinha .TabelaLinhaColuna {display:table-cell; text-align:center; border:1px solid green;} 
+#Corpo .Conteudo .Tabela .TabelaLinha .TabelaLinhaColuna {display:table-cell; text-align:center; border:1px solid green; height:40px; line-height:40px; vertical-align:middle;}
