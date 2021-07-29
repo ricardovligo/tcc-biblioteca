@@ -3,8 +3,7 @@
 <div id="Corpo">
 
     <div class="Conteudo">
-
-        <div class="BotaoAdicionar">Adicionar</div>
+        <div style="width:100%;"><div class="BotaoAdicionar">Adicionar</div></div>
 
         <div class="Tabela">
             <!-- <div>Título</div>
